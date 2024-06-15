@@ -3,25 +3,30 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with extensive experience in building web applications. I love working on innovative projects that challenge me to learn and grow.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 🤔 I’m looking for help with [Any Help You Need]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Email or Social Media]
-- ⚡ Fun fact: [An Interesting Fact About You]
+- 🔭 I’m currently working on MERN stack project now.
+- 🌱 I’m currently learning python framework(Python Djanggo).
+- 👯 I’m looking to collaborate on Open AI, MERN, JAVA project.
+- 🤔 I’m looking for help with someone who has expertise in python, java, AWS.
+- 💬 Ask me about MERN stack, Next.js, Nuxt.js.
+- 📫 How to reach me: luckyshark1012@gmail.com, luckshark1012@gmail.com, luckyshark1012@protonmail.com, luckshark1012@protonmail.com.
+- ⚡ Fun fact: I'm really funny man.
 
 ## 🛠 Skills
 ### Languages
 - JavaScript
+- Java
 - Python
 - PHP
 - HTML/CSS
 
 ### Frameworks and Libraries
 - React
+- Next.js
+- Nuxt.js
+- NestJS
 - Node.js
 - Laravel
+- Spring Boot
 - Django
 
 ### Tools
