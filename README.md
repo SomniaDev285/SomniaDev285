@@ -23,19 +23,7 @@
 
 <h2 font-weight="bold">Process</h2>
 <img src="progress.svg" alt="luckyshark1012" />
-<h2 font-weight="bold">Workflow</h2>
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img height="300px" src="fullstack.gif"/> 
-      </td>
-      <td>
-        <img height="300px" src="stackview.gif" />  
-      </td>
-    </tr>
-  </table>
-</p>
+<h2 font-weight="bold">My machine</h2>
 <img height="50%" src="machine.gif" />
    
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
@@ -212,3 +200,16 @@
 </table>
 </p>
 <img src="skill.png">
+<h2 font-weight="bold">My work style :)</h2>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img height="300px" src="fullstack.gif"/> 
+      </td>
+      <td>
+        <img height="300px" src="stackview.gif" />  
+      </td>
+    </tr>
+  </table>
+</p>
