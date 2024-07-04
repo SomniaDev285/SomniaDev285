@@ -6,7 +6,7 @@
 
 <br />
 
-<p><img align="right" width="50%" src="javascript.gif" alt="luckyshark1012" /></p>
+<p><img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" /></p>
 
 <p>
   As a Full Stack Software Engineer with 7 years of web development and 4 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary) and Python/Django/Flask/PHP(laravel) for the backend.
@@ -23,10 +23,16 @@
 
 <h2 font-weight="bold">Process</h2>
 <p align="center">
-  <img  src="rr.svg"
+  <img  src="progress.svg"
     alt="luckyshark1012" />
 </p>
-<img src="machine.gif">
+
+
+<div style="display:flex;">
+  <img src="fullstack.gif" style="width:50%" /> 
+  <img src="stackview.gif" style="width:50%" />
+</div>
+<img src="machine.gif" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <!-- <img src="skill.png"> -->
