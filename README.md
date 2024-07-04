@@ -6,9 +6,18 @@
 
 <br />
 
-<p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
+<p><img align="right" width="50%" src="javascript.gif" alt="luckyshark1012" /></p>
 
-<p>As a Full Stack Software Engineer with 7 years of web development and 4 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary) and Python/Django/Flask/PHP(laravel) for the backend.</p><p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.Collaborate with creative and development teams on the execution of ideas and projects.</p>
+<p>
+  As a Full Stack Software Engineer with 7 years of web development and 4 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary) and Python/Django/Flask/PHP(laravel) for the backend.
+</p>
+<p>
+  Now I'm learning and developing automation project and trading view project.
+  And try to getting degree of AI, Machine Learning.
+</p>
+<p>
+  Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.Collaborate with creative and development teams on the execution of ideas and projects.
+</p>
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/AntDesign-blue) ![](https://img.shields.io/badge/MaterialUI-blue) ![](https://img.shields.io/badge/CleanUI-blue) ![](https://img.shields.io/badge/UI/UX-blue) ![](https://img.shields.io/badge/ReactNative-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/CodeIgniter-blue) ![](https://img.shields.io/badge/WordPress-yellow) ![](https://img.shields.io/badge/Shopify-yellow) ![](https://img.shields.io/badge/Bubble.io-yellow) ![](https://img.shields.io/badge/WooCommerce-yellow) ![](https://img.shields.io/badge/Wix-yellow) ![](https://img.shields.io/badge/Node.js-green) ![](https://img.shields.io/badge/ExpressJs-green)  ![](https://img.shields.io/badge/NestJs-green)  ![](https://img.shields.io/badge/Golang-green) ![](https://img.shields.io/badge/TypeScript-green) ![](https://img.shields.io/badge/JavaScript-green) ![](https://img.shields.io/badge/MERNStack-green) ![](https://img.shields.io/badge/AI-red) ![](https://img.shields.io/badge/MachineLearning-red) ![](https://img.shields.io/badge/OpenAI-red) ![](https://img.shields.io/badge/ChatGPT-red) ![](https://img.shields.io/badge/LLM-red) ![](https://img.shields.io/badge/LangChain-red) ![](https://img.shields.io/badge/AIChatBot-red) ![](https://img.shields.io/badge/GenerativeAI-red) ![](https://img.shields.io/badge/Python-red) ![](https://img.shields.io/badge/Django-red) ![](https://img.shields.io/badge/Automation-gray) ![](https://img.shields.io/badge/Zapier-gray) ![](https://img.shields.io/badge/Make.com-gray) ![](https://img.shields.io/badge/Monday.com-gray) ![](https://img.shields.io/badge/MySQL-purple) ![](https://img.shields.io/badge/MongoDB-purple) ![](https://img.shields.io/badge/PostgreSQL-purple) ![](https://img.shields.io/badge/Oracle-purple) ![](https://img.shields.io/badge/VectorDB-purple)</div>
 
