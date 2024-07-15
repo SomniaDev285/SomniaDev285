@@ -3,9 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=40">
   </a>
 </p>
+<p align="right">
+  <img src="https://profile-counter.glitch.me/luckyshark1012/count.svg" alt="luckyshark1012" />
+</p>
 
 <br />
-<p><img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" /></p>
+<p>
+  <img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" />
+</p>
 
 <p>
   As a Full Stack Software Engineer with 7 years of web development and 4 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary) and Python/Django/Flask/PHP(laravel) for the backend.
