@@ -1,0 +1,21 @@
+name: Update Visitor Counter
+
+on:
+  page_build:
+    types: [completed]
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-visitor-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update visitor count
+        run: |
+          curl -X GET "https://api.countapi.xyz/hit/luckyshark1012/profile-views"

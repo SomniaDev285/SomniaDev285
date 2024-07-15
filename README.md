@@ -5,7 +5,9 @@
 </p>
 
 <br />
+# Welcome to My GitHub Profile
 
+![Visitor Count](https://api.countapi.xyz/hit/luckyshark1012/profile-views)
 <p><img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" /></p>
 
 <p>
