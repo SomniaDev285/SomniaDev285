@@ -1,13 +1,7 @@
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=60">
   </a>
-</p>
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/luckyshark1012/count.svg" alt="luckyshark1012" />
 </p>
 
 #    
