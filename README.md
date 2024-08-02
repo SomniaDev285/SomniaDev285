@@ -7,7 +7,7 @@
 #    
 <br />
 <p>
-  <img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" />
+  <img align="right" width="50%" src="machine.gif" alt="luckyshark1012" />
 </p>
 
 <p>
