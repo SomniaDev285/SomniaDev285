@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/425daa0e-daea-43b1-9e5c-0d23eac72e2e)<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=60">
   </a>
@@ -7,7 +7,7 @@
 #    
 <br />
 <p>
-  <img align="right" width="50%" src="machine.gif" alt="luckyshark1012" />
+  <img align="right" width="50%" src="machine.gif" alt="SomniaDev285" />
 </p>
 
 <p>
@@ -26,12 +26,12 @@
 
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=luckyshark1012&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=SomniaDev285&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 #
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyshark1012&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomniaDev285&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
 </p>
 
 
