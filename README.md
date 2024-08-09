@@ -7,7 +7,7 @@
 #    
 <br />
 <p>
-  <img align="right" width="50%" src="machine.gif" alt="SomniaDev285" />
+  <img align="right" width="50%" src="machine.gif"/>
 </p>
 
 <p>
